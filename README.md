@@ -23,7 +23,6 @@ A detailed explanation can be found at "midterm report.pdf". "rest_specification
   http://127.0.0.1:8000/api/protein/A0A016S8J7  -  returns the protein sequence data
   <img src="https://user-images.githubusercontent.com/62084317/226919100-274b3d20-47a1-41d7-bf1d-9bd5a9a14806.png" width="500">
   
-  
   http://127.0.0.1:8000/api/pfam/PF00360  -  return the domain and it's description
   <img src="https://user-images.githubusercontent.com/62084317/226919120-26e1924e-b9fd-49f6-b300-8b5d5303b325.png" width="500">
   
