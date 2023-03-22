@@ -22,10 +22,14 @@ A detailed explanation can be found at "midterm report.pdf". "rest_specification
 <kbd>
   http://127.0.0.1:8000/api/protein/A0A016S8J7  -  returns the protein sequence data
   <img src="https://user-images.githubusercontent.com/62084317/226919100-274b3d20-47a1-41d7-bf1d-9bd5a9a14806.png" width="800">
-  <br><br>
+</kbd>
+<br><br><br>
+<kbd>
   http://127.0.0.1:8000/api/pfam/PF00360  -  return the domain and it's description
   <img src="https://user-images.githubusercontent.com/62084317/226919120-26e1924e-b9fd-49f6-b300-8b5d5303b325.png" width="800">
-  <br><br>
+</kbd>
+ <br><br><br>
+<kbd>
   http://127.0.0.1:8000/api/pfams/55661  -  return a list of all domains in all the proteins for a given organism
   <img src="https://user-images.githubusercontent.com/62084317/226918767-6ae98ab4-ba89-4a7c-a780-bf9056acbb35.png" width="800">
 </kbd>
