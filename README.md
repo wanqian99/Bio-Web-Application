@@ -1,8 +1,8 @@
 # Bio-Web-Application
 Uol Advanced Web Development CM3035 Midterm
 
-This is a RESTFUL API application that contains gene data from the csv file, to allow researchers to query data from the database as and when they need. 
-A detailed explanation can be found at /midterm report.pdf
+This is a RESTFUL API application done with Python and Django, that contains gene data from the csv file, to allow researchers to query data from the database as and when they need. 
+A detailed explanation can be found at "midterm report.pdf". "rest_specification_and_examples.txt" shows examples of gene data retrieved from the API
 
 ### How to run the application:
 1) Navigate to virtual environment: cd midterm_venv/bin
