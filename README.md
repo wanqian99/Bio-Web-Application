@@ -12,6 +12,9 @@ A detailed explanation can be found at "midterm report.pdf". "rest_specification
 5) Run server: python3 manage.py runserver
 6) Base url to access API: http://127.0.0.1:8000/api/
 
+### To run the test:
+* python3 manage.py test
+
 ### Refer to this url list:
 <kbd><img src="https://user-images.githubusercontent.com/62084317/226915788-a155c1ed-0235-4ff9-a530-f29bfaa9a59d.png" width="800"></kbd>
 <br><br><br>
